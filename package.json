@@ -1,0 +1,11 @@
+{
+    "name": "api-si",
+    "version": "1.0.0",
+    "description": "CetvrtiProjektniZadatakSI",
+    "main": "script.js",
+    "scripts": {
+      "test": "exit 1"
+    },
+    "author": "nerina",
+    "license": "ISC"
+  }
